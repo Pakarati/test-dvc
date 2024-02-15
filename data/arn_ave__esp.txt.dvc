@@ -1,0 +1,6 @@
+outs:
+- md5: 3d7f2e840d8de8919e4cd30d5fb81c01
+  size: 17024195
+  isexec: true
+  hash: md5
+  path: arn_ave__esp.txt

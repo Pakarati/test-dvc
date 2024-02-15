@@ -1,0 +1,6 @@
+outs:
+- md5: 640c5c5e65bd83193a4682bbc5375dc7
+  size: 4705467
+  isexec: true
+  hash: md5
+  path: arn_jw__esp.txt
