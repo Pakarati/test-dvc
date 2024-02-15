@@ -1,0 +1,5 @@
+outs:
+- md5: f688ae26e9cfa3ba6235477831d5122e
+  size: 4
+  hash: md5
+  path: test-hola.txt
