@@ -1,0 +1,5 @@
+outs:
+- md5: 4c41a44725f9293560ec07f8296fa758
+  size: 15
+  hash: md5
+  path: lol.txt
